@@ -6,6 +6,5 @@ pyenv
 *.xlsx
 *.ipynb
 *.json
-data
 output
 cache
