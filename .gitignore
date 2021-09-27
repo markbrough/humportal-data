@@ -1,0 +1,12 @@
+pyenv
+.ipynb_checkpoints
+*.sublime-*
+.DS_Store
+*.xml
+*.xlsx
+*.csv
+*.ipynb
+*.json
+data
+output
+cache
