@@ -1,7 +1,9 @@
 import csv
-import requests
+import os
 import json
 import datetime
+
+import requests
 
 BASE_URL = "https://analytics.codeforiati.org/{}"
 STATS_URL = "https://stats.codeforiati.org/{}"
