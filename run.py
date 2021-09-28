@@ -111,7 +111,8 @@ def generate_signatory_data(analytics_publishers):
                 '202HumData': _202_hum_data,
                 '203HumData': _203_hum_data,
                 'traceability': traceability,
-                'monthly': monthly
+                'monthly': monthly,
+                'frequency': frequency.get(row['Registred Pub. ID'])
             })
     with open('output/signatories.json', 'w') as jsonfile:
         json.dump(publishers, jsonfile)
