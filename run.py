@@ -103,6 +103,7 @@ def generate_signatory_data(analytics_publishers):
             traceability = row['Registred Pub. ID'] in elements['iati-activity/transaction/provider-org/@provider-activity-id'].keys()
             publishers.append({
                 'publisherID': row['Registred Pub. ID'],
+                'iatiOrganisationID': row['IATI organisation reference'],
                 'name': row['Publisher'],
                 'gbSignatory': row['GB signatory'],
                 'organisationType': row['Organisation type'],
