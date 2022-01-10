@@ -223,7 +223,16 @@ def generate_analytics_publishers():
     return analytics_publishers
 
 
+def generate_metadata(started, finished):
+    with open('output/metadata.json', 'w') as metadatafile:
+        json.dump({
+            'started': started.isoformat(),
+            'finished': finished.isoformat()
+        }, metadatafile)
+
+
 def generate_stats():
+    started = datetime.datetime.utcnow()
     os.makedirs('data/', exist_ok=True)
     os.makedirs('cache/', exist_ok=True)
     os.makedirs('output/', exist_ok=True)
@@ -232,6 +241,8 @@ def generate_stats():
     generate_homepage_stats(analytics_publishers)
     generate_signatory_data(analytics_publishers)
     generate_signatories_progress()
+    finished = datetime.datetime.utcnow()
+    generate_metadata(started, finished)
 
 
 if __name__=='__main__':
