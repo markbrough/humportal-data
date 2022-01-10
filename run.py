@@ -136,6 +136,12 @@ def generate_signatory_data(analytics_publishers):
             })
     with open('output/signatories.json', 'w') as jsonfile:
         json.dump(publishers, jsonfile)
+    with open('output/signatories.csv', 'w') as csvfile:
+        fieldnames = publishers[0].keys()
+        csvwriter = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        csvwriter.writeheader()
+        for row in publishers:
+            csvwriter.writerow(row)
 
 
 def generate_signatories_progress():
