@@ -203,6 +203,16 @@ def generate_signatories_progress():
             out.append(today)
             json.dump(out, signatories_progress_json)
 
+    with open('data/signatories-progress.csv', 'r') as signatories_progress_csv:
+        csvreader = csv.DictReader(signatories_progress_csv)
+        with open('output/signatories-progress.csv', 'w') as csvfile:
+            fieldnames = csvreader.fieldnames
+            csvwriter = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            csvwriter.writeheader()
+            for row in csvreader:
+                csvwriter.writerow(row)
+            csvwriter.writerow(today)
+
 
 def generate_analytics_publishers():
     analytics_publishers = {}
