@@ -57,6 +57,10 @@ def get_source_data():
 def generate_homepage_stats(analytics_publishers):
     signatories = set()
     signatories_data = {}
+
+    with open('cache/activities.json', 'r') as activities_json:
+        activities = json.load(activities_json)
+
     with open('data/signatories.csv', 'r') as signatories_csv:
         csvreader = csv.DictReader(signatories_csv)
         for row in csvreader:
@@ -68,7 +72,9 @@ def generate_homepage_stats(analytics_publishers):
                 }
             publisher_id = row['Registred Pub. ID']
             if publisher_id in analytics_publishers:
-                if int(analytics_publishers[publisher_id]['Number of Activities']) > 0:
+                # NB here we check the *total number of activities*
+                # rather than the *total number of humanitarian activities*
+                if int(activities[publisher_id]) > 0:
                     signatories_data[row['GB signatory']]['iati'] = True
                 if int(analytics_publishers[publisher_id]['Publishing Humanitarian']) > 0:
                     signatories_data[row['GB signatory']]['humanitarian'] = True
