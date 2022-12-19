@@ -118,6 +118,8 @@ def generate_signatory_data(analytics_publishers):
                 (publisher_id in codelist_values['.//transaction/transaction-type/@code']['13'].keys()) or
                 (publisher_id in codelist_values['.//default-aid-type/@vocabulary']['2'].keys()) or
                 (publisher_id in codelist_values['.//default-aid-type/@vocabulary']['3'].keys()) or
+                (publisher_id in codelist_values['.//transaction/aid-type/@vocabulary']['2'].keys()) or
+                (publisher_id in codelist_values['.//transaction/aid-type/@vocabulary']['3'].keys()) or
                 (publisher_id in codelist_values['.//participating-org/@type']['24'].keys()) or
                 (publisher_id in codelist_values['.//transaction/provider-org/@type']['24'].keys()) or
                 (publisher_id in codelist_values['.//transaction/receiver-org/@type']['24'].keys())
