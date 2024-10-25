@@ -1,0 +1,116 @@
+publisherID,iatiOrganisationID,name,gbSignatory,organisationType,iatiVersion,humData,humanitarianActivities,activities,202HumData,203HumData,traceability,monthly,frequency
+aab,BD-NAB-0210,ActionAid Bangladesh,ActionAid,International NGO,2.03,True,7,9,True,True,True,False,Less than Annual
+aadk,DK-CVR-18243717,ActionAid Denmark,ActionAid,International NGO,2.03,True,2,29,True,True,True,True,Monthly
+aag,GH-DSW-3064,ActionAid Ghana,ActionAid,National NGO,2.03,False,0,1,False,False,True,False,Less than Annual
+aai,NL-KVK-27264198,ActionAid International,ActionAid,International NGO,2.03,False,0,1,False,False,True,False,Less than Annual
+aaik,KE-NCB-OP/218/051/924/84,ActionAid International Kenya,ActionAid,International NGO,2.03,False,0,7,False,True,True,False,Less than Annual
+aar,RW-RGB-61-RGB-NGO-2017,ActionAid Rwanda,ActionAid,National NGO,2.03,False,0,3,False,False,True,False,Less than Annual
+aauk,GB-CHC-274467,ActionAid UK,ActionAid,International NGO,2.03,True,62,127,True,True,True,False,Quarterly
+aics,XM-DAC-6-4,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,Italy,Government,2.03,True,696,3452,True,False,False,True,Monthly
+,,Alliance for Empowering Partnership,Alliance for Empowering Partnership,Government,,False,0,0,False,False,False,False,
+ausgov,AU-5,Australia - Department of Foreign Affairs and Trade (DFAT),Australia,Government,2.03,True,1354,13927,True,False,False,False,Less than Annual
+enabel,BE-BCE_KBO-0264814354,Belgian Development Agency,Belgium,Government,2.03,True,7,1456,False,False,False,False,Annual
+be-dgd,XM-DAC-2-10,Belgian Development Cooperation,Belgium,Government,2.03,True,104,705,True,False,False,True,Monthly
+gb-chc-220949,GB-CHC-220949,British Red Cross,IFRC,International NGO,2.03,True,241,371,True,False,True,False,Annual
+,,Bulgaria,Bulgaria,Government,,False,0,0,False,False,False,False,
+gac-amc,CA-3,Canada - Global Affairs Canada | Affaires mondiales Canada,Canada,Government,2.03,True,371,2696,True,False,False,True,Monthly
+carebenintogo,BJ-IFU-5201000673108,CARE BENIN / TOGO,Care International,International NGO,2.03,True,2,2,True,True,True,False,Annual
+12921047,DK-CVR-12921047,CARE Danmark,Care International,National NGO,2.03,True,9,18,True,True,True,False,Quarterly
+ciafg,AF-MOE-22,CARE International Afghanistan,Care International,International NGO,2.02,True,2,2,True,False,True,False,Less than Annual
+cis,XM-OCHA-HPC8568,CARE International Foundation Switzerland in Sudan,Care International,International NGO,2.03,False,0,1,False,False,True,False,Less than Annual
+ciz,ZW-PVO-15/2003,CARE International in Zimbabwe,Care International,National NGO,2.02,True,1,1,True,False,True,False,Less than Annual
+ciuk,GB-CHC-292506,CARE International UK,Care International,International NGO,2.03,True,250,343,True,False,True,False,Quarterly
+carenederland,NL-KVK-41158230,CARE Nederland,Care International,International NGO,2.03,True,62,103,True,False,True,False,Quarterly
+cnepal,NP-IRD-302274734,CARE Nepal,Care International,International NGO,2.03,True,3,3,True,False,True,False,Less than Annual
+csom1,KE-NCB-218/051/9384/74,CARE Somalia,Care International,International NGO,2.03,False,0,3,False,False,True,False,Quarterly
+cafod,GB-CHC-285776,Catholic Agency for Overseas Development (CAFOD),CAFOD,International NGO,2.03,True,959,4015,False,False,True,False,Six-Monthly
+crs,US-EIN-13-5563422,Catholic Relief Services (CRS),Catholic Relief Services,International NGO,2.03,True,8,15,True,False,True,False,Quarterly
+caid,GB-CHC-1105851,Christian Aid,Christian Aid,International NGO,2.03,True,27,395,True,True,True,False,Quarterly
+caid_ireland,IE-CHY-6998,Christian Aid Ireland,Christian Aid,International NGO,2.03,True,2,55,True,True,True,False,Quarterly
+,,Czech Republic - Czech Development Agency,Czech Republic,Government,,False,0,0,False,False,False,False,
+dca,DK-CVR-36980214,DanChurchAid,Danish Church Aid,International NGO,2.03,True,3,876,True,True,True,False,Quarterly
+danida,XM-DAC-3-1,"Denmark - Ministry of Foreign Affairs, Danida",Denmark,Government,2.03,True,2440,19116,True,False,True,True,Monthly
+dotw_uk,GB-CHC-1067406,Doctors Of The World UK,Médecins du Monde,International NGO,2.02,False,0,3,False,False,False,False,Less than Annual
+drc,DK-CVR-20699310,Danish Refugee Council,Danish Refugee Council,International NGO,2.03,True,206,243,True,True,True,False,Quarterly
+,,Estonia,Estonia,Government,,False,0,0,False,False,False,False,
+ec-echo,XI-IATI-EC_ECHO,European Commission (EC) - DG Humanitarian Aid and Civil Protection (ECHO),European Commission - ECHO,Other Public Sector,2.03,True,8585,8585,True,False,True,True,Monthly
+finland_mfa,FI-3,Finland - Ministry of Foreign Affairs,Finland,Government,2.03,True,1089,25220,False,True,False,False,Quarterly
+fao,XM-DAC-41301,Food and Agriculture Organization of the United Nations (FAO),FAO,Multilateral,2.02,True,826,9576,False,False,False,False,Annual
+france,FR-6,France - Ministry for Europe and Foreign Affairs,France,Government,2.01,True,154,2375,False,False,False,True,Monthly
+fo_germany,XM-DAC-5-7,Germany - Federal Foreign Office (FFO),Germany,Government,2.03,True,1132,7299,True,False,False,False,Annual
+bmz,DE-1,Germany - Federal Ministry for Economic Cooperation and Development (BMZ),Germany,Government,2.03,True,503,31443,False,False,True,True,Monthly
+,,Global Communities,Global Communities,International NGO,,False,0,0,False,False,False,False,
+interaction,US-EIN-13-3287064,InterAction,Interaction,International NGO,2.03,True,12,41,True,False,False,False,Less than Annual
+icrc,XM-DAC-21016,International Committee of the Red Cross (ICRC),ICRC,Multilateral,2.03,True,410,410,True,False,True,False,Six-Monthly
+icva,CH-FDJP-CHE100871337,International Council of Voluntary Agencies (ICVA),ICVA,International NGO,2.03,True,1,1,True,False,False,False,Less than Annual
+ifrcrcs,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),IFRC,Other,2.03,True,30730,30730,True,False,False,False,Six-Monthly
+ilo,XM-DAC-41302,International Labor Organization (ILO),ILO,Multilateral,2.03,True,368,10423,True,True,True,True,Monthly
+iom,XM-DAC-47066,International Organization for Migration (IOM),IOM,Multilateral,2.03,True,2266,4920,True,True,True,True,Monthly
+irc_inc,US-EIN-13-5660870,International Rescue Committee (IRC),International Rescue Committee,International NGO,2.03,True,150,151,True,True,True,False,Quarterly
+irc_uk,GB-CHC-1065972,International Rescue Committee (IRC) UK,International Rescue Committee,International NGO,2.03,True,133,134,True,False,True,False,Quarterly
+irishaid,XM-DAC-21-1,Ireland - Department of Foreign Affairs & Trade (Irish Aid),Ireland,Government,2.03,True,1978,19478,False,False,True,False,Annual
+jica,XM-DAC-701-8,Japan - Japan International Cooperation Agency (JICA),Japan,Government,2.03,True,2,206,False,False,False,False,Quarterly
+,,Luxembourg,Luxembourg,Government,,False,0,0,False,False,False,False,
+medecins,BE-BCE_KBO-0460162753,Medicins Du Monde Belgique,Médecins du Monde,National NGO,2.03,False,0,19,False,False,True,False,Annual
+mdm-fr,FR-INSEE-32101874900127,Medicins Du Monde France,Médecins du Monde,International NGO,2.03,True,2,2,True,False,False,False,Less than Annual
+mce,GB-SC-SC030289,Mercy Corps Europe,Mercy Corps,International NGO,2.03,True,6,67,True,False,True,False,Quarterly
+mcg,US-EIN-91-1148123,Mercy Corps Global,Mercy Corps,International NGO,2.02,False,0,1,False,False,False,False,Less than Annual
+mcn,NL-KVK-70333564,Mercy Corps Netherlands,Mercy Corps,International NGO,2.03,False,0,5,True,False,True,False,Annual
+,,NEAR,NEAR Network,International NGO,,False,0,0,False,False,False,False,
+minbuza_nl,XM-DAC-7,Netherlands - Ministry of Foreign Affairs,Netherlands,Government,2.03,True,638,10485,True,True,False,False,Quarterly
+nlrc,NL-KVK-40409352,Netherlands Red Cross,IFRC,International NGO,2.03,True,917,1466,True,False,True,False,Annual
+mfat,NZ-1,New Zealand - Ministry of Foreign Affairs and Trade - New Zealand Aid Programme,New Zealand,Government,2.03,True,419,2610,True,True,False,True,Monthly
+norad,NO-BRC-971277882,Norad - Norwegian Agency for Development Cooperation,Norway,Government,2.03,True,895,8036,False,True,False,False,Six-Monthly
+nrc,NO-BRC-977538319,Norwegian Refugee Council (NRC),Norwegian Refugee Counci,International NGO,2.03,True,143,222,True,False,True,False,Quarterly
+unocha-cbpf,XM-OCHA-CBPF,OCHA Country Based Pooled Funds,UN OCHA,National NGO,2.03,True,14929,14929,True,False,True,True,Monthly
+oecd,XM-DAC-47080,Organisation For Economic Co-operation and Development ,OECD,Multilateral,2.03,False,0,3,False,False,False,False,Annual
+oxfamus,US-EIN-23-7069110,Oxfam America,OXFAM,International NGO,2.03,True,63,401,True,False,False,False,Less than Annual
+oau,AU-ACNC-18055208636,Oxfam Australia,OXFAM,International NGO,2.03,True,59,164,True,False,False,False,Less than Annual
+oxfamgb,GB-CHC-202918,Oxfam GB,OXFAM,International NGO,2.02,False,0,3812,False,False,True,False,Quarterly
+ibis_denmark,DK-CVR-88136411,Oxfam IBIS,OXFAM,International NGO,2.03,True,22,63,True,False,True,False,Quarterly
+oxfamindia,IN-MCA-U74999DL2004NPL131340,Oxfam India,OXFAM,National NGO,,False,0,0,False,False,False,False,Less than Annual
+oxfamintermon,ES-CIF-G-8236803,Oxfam Intermon,OXFAM,International NGO,2.03,True,18,83,True,False,False,False,Less than Annual
+omdm,BE-BCE_KBO-0416486821,Oxfam Magasins Du Monde (OMDM),OXFAM,National NGO,2.03,False,0,9,False,False,True,False,Annual
+onl,NL-KVK-27108436,Oxfam Novib,OXFAM,International NGO,2.03,True,1430,7205,True,True,True,True,Monthly
+oxsol,BE-BCE_KBO-0408643875,Oxfam Solidarit√©-Solidariteit,OXFAM,National NGO,2.03,False,0,14,False,True,True,False,Less than Annual
+oww,BE-BCE_KBO-0415365777,Oxfam Wereldwinkels,OXFAM,National NGO,2.03,False,0,3,False,False,True,False,Less than Annual
+climate_centre,NL-KVK-27267681,Red Cross Red Crescent Climate Centre,IFRC,International NGO,2.03,False,0,18,False,False,True,False,Less than Annual
+ri_kenya,KE-NCB-OP-218-051-2007-0183-4781,Relief International Somalia,Relief International,International NGO,,False,0,0,False,False,False,False,Less than Annual
+ri-uk,GB-CHC-1098106,Relief International UK,Relief International,International NGO,2.03,False,0,9,False,False,True,False,Less than Annual
+odakorea,KR-GOV-021,Republic of Korea,Republic of Korea,Government,2.02,True,4,1512,True,False,True,False,Quarterly
+redbarnet,DK-CVR-63407216,Save The Children DK,Save The Children,International NGO,2.03,True,17,71,True,False,True,False,Quarterly
+sci,GB-CHC-1076822,Save The Children International,Save The Children,International NGO,2.03,True,577,1154,True,False,True,False,Annual
+scnl,NL-KVK-41201463,Save The Children Nethelands,Save The Children,International NGO,2.03,True,97,138,True,False,True,False,Quarterly
+scuk,GB-COH-213890,Save The Children UK,Save The Children,International NGO,2.03,True,677,1486,True,False,True,False,Annual
+si-mfa,XM-DAC-61-2,Slovenia Ministry Of Foreign Affairs,Slovenia,Government,2.03,True,23,23,True,True,False,False,Less than Annual
+maec,ES-DIR3-E04585801,Spain - Ministry of Foreign Affairs and Cooperation,Spain,Government,,False,0,0,False,False,False,False,Less than Annual
+aecid,ES-DIR3-EA0035768,Spanish Agency for International Development Cooperation (AECID),Spain,Government,2.03,True,351,3387,True,False,False,False,Less than Annual
+,,Steering Committee for Humanitarian Response,SCHR,International NGO,,False,0,0,False,False,False,False,
+aanl,NL-KVK-41217595,Stichting ActionAid Netherlands,ActionAid,International NGO,2.03,False,0,5,False,False,True,False,Annual
+sida,SE-0,Sweden - Swedish International Development Cooperation Agency (Sida),Sweden,Government,2.03,True,9201,131719,True,False,False,True,Monthly
+sdc_ch,CH-4,Switzerland - Swiss Agency for Development and Cooperation (SDC),Switzerland,Government,2.03,True,7436,41765,False,False,True,False,Six-Monthly
+sr,GB-CHC-1143797,Syria Relief ,Syria Relief,Regional NGO,2.03,False,0,1,False,False,False,False,Less than Annual
+trocaire,IE-CHY-20009601,Trocaire,Trocaire,International NGO,2.03,True,11,17,False,False,True,False,Quarterly
+fcdo,GB-GOV-1,"UK - Foreign, Commonwealth and Development Office",United Kingdom,Government,2.03,True,3024,25102,True,False,False,True,Monthly
+ub,BE-BCE_KBO-0407562029,UNICEF Belgium National Commitee,UNICEF,National NGO,2.03,False,0,7,False,False,True,False,Annual
+unicefnl,NL-KVK-27102631,UNICEF Netherlands National Commitee,UNICEF,National NGO,2.03,True,6,19,False,False,True,False,Annual
+cerf,XM-OCHA-CERF,United Nations Central Emergency Response Fund (CERF),UN OCHA,Multilateral,2.03,True,9695,9695,True,True,False,True,Monthly
+unicef,XM-DAC-41122,United Nations Children's Fund (UNICEF),UNICEF,Multilateral,2.02,True,6950,17102,True,False,False,True,Monthly
+undp,XM-DAC-41114,United Nations Development Programme (UNDP),UNDP,Multilateral,2.03,True,1336,16006,True,False,True,True,Monthly
+unhcr,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),UNHCR,Multilateral,2.03,True,1085,1085,True,True,True,True,Monthly
+unocha,XM-DAC-41127,United Nations Office for the Coordination of Humanitarian Affairs (OCHA),UN OCHA,Multilateral,2.03,True,50,50,True,False,True,True,Monthly
+unocha-sdc,XI-IATI-OCHASDC,United Nations Office for the Coordination of Humanitarian Affairs (Specially-Designated Contributions),UN OCHA,Multilateral,2.03,True,3,3,True,False,True,False,Six-Monthly
+unfpa,41119,United Nations Population Fund (UNFPA),UNFPA,Multilateral,2.03,True,433,812,False,False,False,False,Annual
+unrwa,XM-DAC-41130,United Nations Relief and Works Agency for Palestine Refugees (UNRWA),UNRWA,Multilateral,2.03,True,562,2154,True,False,False,False,Quarterly
+unw,XM-DAC-41146,United Nations Women (UN Women),UN Women,Multilateral,2.02,True,104,1641,True,False,False,True,Monthly
+wfp,XM-DAC-41140,United Nations World Food Programme (WFP),UN WFP,Multilateral,2.03,True,1045,1279,True,False,False,True,Monthly
+unitedstates,US-USAGOV,United States,United States Of America,Government,,False,0,0,False,False,False,False,Less than Annual
+usaid,US-GOV-1,United States Agency for International Development (USAID),United States Of America,Government,2.03,True,13276,54277,True,True,False,True,Monthly
+worldbank,44000,"World Bank, The",The World Bank,Multilateral,2.03,True,391,4452,True,False,False,True,Monthly
+who,XM-DAC-928,World Health Organization,WHO,Multilateral,2.03,True,4290,26070,True,True,False,True,Monthly
+wvi,US-EIN-95-3202116,World Vision International (WVI),World Vision International,International NGO,2.03,True,69,71,True,False,False,False,Quarterly
+wvnld,NL-KVK-41179943,World Vision Netherlands,World Vision International,Foundation,2.03,True,9,71,True,False,True,False,Quarterly
+wvsyria,JO-CCD-2826,World Vision Syria,World Vision International,International NGO,,False,0,0,False,False,False,False,Less than Annual
+wvuk,GB-CHC-285908,World Vision UK,World Vision International,International NGO,2.03,True,127,262,True,False,True,False,Quarterly
+wvz-gec,ZW-PVO-26/79,World Vision Zimbabwe,World Vision International,International NGO,2.03,True,4,4,True,False,True,False,Less than Annual
+zoa,NL-KVK-41009723,ZOA,ZOA International,International NGO,2.03,True,48,127,True,True,True,True,Monthly
